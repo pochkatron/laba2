@@ -11,7 +11,7 @@
 
 # Функции
 ## Круг
-### Вычисоенме площади
+### Вычисление площади
 *(r-радиус)*
 ```python
 def area(r):
@@ -72,4 +72,7 @@ def perimeter(a,b,c):
 >Пример вызова: perimeter (3,4,5) -> 12
 
 # Changelog 
-- [Fixed rectangle.py]()
+- [Fixed rectangle.py](https://github.com/pochkatron/geometric_lib/commit/d8409b63db5ce9468976e9f46a8d7179a23371a5)
+- [Added triangle.py](https://github.com/pochkatron/geometric_lib/commit/ff15425b4dd4d19c31d2445477e5536859912ec7)
+- [L-03:Circle and square added](https://github.com/pochkatron/geometric_lib/commit/a9296073e5854711d12beedf55c6e9f81fddb606)
+- [;-03: Docs added](ttps://github.com/pochkatron/geometric_lib/commit/37a11b8c2be2325041760abde5f4e2b420cebe6d)
