@@ -25,4 +25,3 @@ def perimeter(r):
             2*math.pi*r: искомый периметр круга
     '''
     return 2 * math.pi * r
-
